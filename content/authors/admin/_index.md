@@ -25,8 +25,8 @@ organizations:
 bio: My research interests include Artificial Upwelling Technology & Intelligent Algorithms.
 
 # Interests to show in About widget
-Keywords:
-  - Applied ocean technology
+Interests:
+  - Applied ocean technologies
   - Artificial Intelligence
   
 
@@ -35,10 +35,11 @@ education:
   courses: 
     - course: MPhil. In Machinery 
       institution: Ocean College, Zhejiang University
-      year: Sep. 2021 - Mar. 2024 (Expected)
+      year: Sep. 2021 - Mar. 2024 (Expected) 
     - course: B.Eng. in Engineering 
       institution: Marine engineering college, Dalian Maritine University
       year: Sep. 2017 - Jun. 2021
+      GPA: 4.00/5.00, Outstanding graduate
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

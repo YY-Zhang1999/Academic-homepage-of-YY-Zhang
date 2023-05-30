@@ -1,6 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Layout Optimization  of Air-lifted Artificial Upwelling System Based on Discrete Particle Swarm Algorithm
+summary: 
+  - Modeling artificial upwelling efficiency under crossflow.
+  - Optimized nozzle layout using DPSO algorithm.
+  - Providing practical insights for AU system optimization design.
+  - Co-authored peer-reviewed papers on this topic.
+  - Submitted manuscripts to the reputable ocean journal "Applied Ocean Research."
+  - Demonstrated strong problem-solving and critical thinking skills.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
