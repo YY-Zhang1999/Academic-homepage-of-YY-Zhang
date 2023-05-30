@@ -25,9 +25,9 @@ organizations:
 bio: My research interests include Artificial Upwelling Technology & Intelligent Algorithms.
 
 # Interests to show in About widget
-interests:
+Keywords:
+  - Applied ocean technology
   - Artificial Intelligence
-  - Artificial Upwelling
   
 
 # Education to show in About widget
