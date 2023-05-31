@@ -22,7 +22,7 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Upwelling Technology & Intelligent Algorithms.
+bio: I'm interest in obtaining a Ph.D. in ME or ECE, with the aim of advancing my knowledge and skills in the field of system optimization and artificial intelligence, contributing to scientific research, and pursuing a career as a researcher in academia or industry.
 
 # Interests to show in About widget
 Interests:
