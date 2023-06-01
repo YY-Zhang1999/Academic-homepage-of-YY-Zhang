@@ -64,5 +64,6 @@ email: 'zjuzyy777@gmail.com'
 highlight_name: true
 ---
 
-Yiyuan Zhang is ...
+Zhang Yiyuan is a graduate student in mechanical engineering currently enrolled at Zhejiang University, seeking a Ph.D. in the field of optimization of engineering or Intelligent systems combined with artificial intelligence. With the support of the National Natural Science Funds of China and the Strategic Priority Research Program of the Chinese Academy of Sciences, his past research focuses on the application of intelligent algorithms, such as deep reinforcement learning, to optimize ocean artificial upwelling systems. He is actively submitting papers related to this research topic to reputed journals, including "Applied Ocean Research."
 {style="text-align: justify;"}
+# 张翼远是一名机械工程研究生，目前就读于浙江大学，正在寻求工程中优化与AI相结合相关的博士学位。他在中国国家自然科学基金和中科院先导项目的支持下开展将深度强化学习等智能算法应用于海洋人工上升流系统的优化的研究，正在向‘Applied Ocean Research’等期刊投稿相关主题论文。
