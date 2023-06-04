@@ -37,10 +37,10 @@ url_video: ''
 slides: example
 ---
 
-In this work, we have presented a novel approach using the DPSO algorithm to optimize the layout of artificial upwelling in aquaculture farms, aiming to maximize the efficiency of the air-lifted AU system. 
-Highlights:
-- Modeling artificial upwelling efficiency under crossflow.
-- Optimized nozzle layout using DPSO algorithm.
-- Providing practical insights for AU system optimization design.
-- Co-authored peer-reviewed papers on this topic.
-- Submitted manuscripts to the reputable ocean journal "Applied Ocean Research."
+- In this work, we have presented a novel approach using the DPSO algorithm to optimize the layout of artificial upwelling in aquaculture farms, aiming to maximize the efficiency of the air-lifted AU system. 
+- Highlights:
+  - Modeling artificial upwelling efficiency under crossflow.
+  - Optimized nozzle layout using DPSO algorithm.
+  - Providing practical insights for AU system optimization design.
+  - Co-authored peer-reviewed papers on this topic.
+  - Submitted manuscripts to the reputable ocean journal "Applied Ocean Research."

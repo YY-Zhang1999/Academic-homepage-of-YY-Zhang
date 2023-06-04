@@ -17,10 +17,10 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: 90%
+          description: 100%
           icon: p-project
           icon_pack: fab
-        - name: Statistics
+        - name: Deep Learning
           description: 100%
           icon: chart-line
           icon_pack: fas
