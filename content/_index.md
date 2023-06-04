@@ -16,9 +16,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Python
           description: 90%
-          icon: r-project
+          icon: p-project
           icon_pack: fab
         - name: Statistics
           description: 100%
@@ -47,7 +47,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: MIT Deep Learning 6.S191
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -55,7 +55,7 @@ sections:
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Deep Reinforcement Learning (CS 285 at UC Berkeley)
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -63,7 +63,7 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: CS 61A: Structure and Interpretation of Computer Programs
           url: ''
     design:
       columns: '2'
@@ -82,13 +82,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
