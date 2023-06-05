@@ -12,7 +12,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: 100%
+          icon: python
+          icon_pack: fab
+        - name: Deep Learning
+          description: 100%
+          icon: network-wired
+          icon_pack: fab
+        - name: Table tennis
+          description: 10%
+          icon: table-tennis-paddle-ball
+          icon_pack: fab
     
   - block: portfolio
     id: projects
