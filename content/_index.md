@@ -12,61 +12,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 100%
-          icon: python
-          icon_pack: fab
-        - name: Deep Learning
-          description: 100%
-          icon: network-wired
-          icon_pack: fab
-        - name: Table tennis
-          description: 10%
-          icon: table-tennis-paddle-ball
-          icon_pack: fab
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: MIT Deep Learning 6.S191
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Deep Reinforcement Learning (CS 285 at UC Berkeley)
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: CS 61A: Structure and Interpretation of Computer Programs
-          url: ''
-    design:
-      columns: '2'
+  
     
   - block: portfolio
     id: projects
@@ -112,3 +58,6 @@ sections:
       view: citation
   
 ---
+
+
+
