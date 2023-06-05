@@ -18,16 +18,16 @@ sections:
       items:
         - name: Python
           description: 100%
-          icon: p-project
+          icon: python
           icon_pack: fab
         - name: Deep Learning
           description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
+          icon: network-wired
+          icon_pack: fab
+        - name: Table tennis
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: table-tennis-paddle-ball
+          icon_pack: fab
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
