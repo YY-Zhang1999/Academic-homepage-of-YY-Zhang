@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Learn about me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -23,11 +23,11 @@ sections:
         - name: Deep Learning
           description: 100%
           icon: network-wired
-          icon_pack: fab
+          icon_pack: fas
         - name: Table tennis
           description: 10%
           icon: table-tennis-paddle-ball
-          icon_pack: fab
+          icon_pack: fas
     
   - block: portfolio
     id: projects
@@ -69,7 +69,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   
 ---
