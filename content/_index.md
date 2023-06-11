@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Learn about me
+      title: About Me:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -17,16 +17,16 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: 100%
+          description: 90%
           icon: python
           icon_pack: fab
         - name: Deep Learning
           description: 100%
           icon: network-wired
           icon_pack: fas
-        - name: Table tennis
+        - name: JAVA
           description: 10%
-          icon: table-tennis-paddle-ball
+          icon: java
           icon_pack: fas
     
   - block: portfolio
@@ -69,7 +69,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
   
 ---
