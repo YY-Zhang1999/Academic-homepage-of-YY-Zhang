@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me:
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -23,6 +23,10 @@ sections:
         - name: Deep Learning
           description: 100%
           icon: network-wired
+          icon_pack: fas
+        - name: JAVA
+          description: 10%
+          icon: java
           icon_pack: fas
         
     
