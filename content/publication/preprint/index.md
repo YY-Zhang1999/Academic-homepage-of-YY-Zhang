@@ -3,7 +3,7 @@ title: "Layout Optimization of Air-lifted Artificial Upwelling System Based on D
 authors:
 - admin
 date: "2023-06-07T00:00:00Z"
-doi: ""
+doi: "Under Review"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -62,8 +62,3 @@ projects:
 slides: example
 ---
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

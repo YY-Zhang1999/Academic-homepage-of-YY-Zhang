@@ -13,28 +13,11 @@ tags:
 date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+#external_link: ''
 
 image:
   caption: Research Content and Results
   focal_point: Smart
-
-links:
-  #- icon: twitter
-    #icon_pack: fab
-    #name: Follow
-    #url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 - In this work, we have presented a novel approach using the **_DPSO algorithm to optimize the layout_** of artificial upwelling in aquaculture farms, aiming to improve the efficiency of the air-lifted AU system. 
