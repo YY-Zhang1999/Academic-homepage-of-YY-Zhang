@@ -27,7 +27,7 @@ sections:
         - name: JAVA
           description: 10%
           icon: java
-          icon_pack: fab
+          icon_pack: fas
     
   - block: portfolio
     id: projects
