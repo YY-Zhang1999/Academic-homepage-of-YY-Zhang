@@ -24,10 +24,7 @@ sections:
           description: 100%
           icon: network-wired
           icon_pack: fas
-        - name: JAVA
-          description: 10%
-          icon: java
-          icon_pack: fas
+        
     
   - block: portfolio
     id: projects
