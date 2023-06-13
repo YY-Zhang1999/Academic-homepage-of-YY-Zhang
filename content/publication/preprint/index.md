@@ -2,7 +2,7 @@
 title: "Layout Optimization of Air-lifted Artificial Upwelling System Based on Discrete Particle Swarm Algorithm"
 authors:
 - admin
-date: "Under Review"
+date: "2023-06-07T00:00:00Z"
 #doi: "Under Review"
 
 # Schedule page publish date (NOT publication's date).
