@@ -2,8 +2,8 @@
 title: "Layout Optimization of Air-lifted Artificial Upwelling System Based on Discrete Particle Swarm Algorithm"
 authors:
 - admin
-date: "2023-06-07T00:00:00Z"
-doi: "Under Review"
+date: "Under Review"
+#doi: "Under Review"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Applied Ocean Research_"
-publication_short: "_APOR_"
+publication_short: "_APOR_ (Under Review)"
 
 abstract: Artificial upwelling (AU) is widely recognized as a geoengineering tool to enhance oceanic fertility and stimulate the earth’s capability of self-healing. Several air-lifted AU systems have been established to promote seaweed growth and facilitate carbon sequestration, for instance, in Norway and China. However, few researchers have addressed the critical issue of optimizing the layout of the underwater nozzle array (UNA), a key component of the air-lifted AU system. In this paper, we propose a novel method to optimize the layout of UNA by introducing and improving the discrete particle swarm optimization (DPSO) algorithm to guide the optimal nozzle positions. Furthermore, we develop the nutrient transport efficiency model to evaluate the performance of the AU system and apply it to investigate a typical AU system, namely the one in Aoshan Bay, China. Our results demonstrate that the proposed DPSO algorithm outperforms the conventional particle swarm optimization algorithm and the nutrient transport efficiency under the optimized UNA layouts was improved by an average of 14.5% to 35.0% compared to randomly generated layouts. These findings suggest that our optimization method could serve as a scientific reference for the engineering design of AU. 
 
