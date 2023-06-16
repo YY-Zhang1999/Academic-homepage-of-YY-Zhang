@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MPhil. In Machinery
+role: MPhil. In Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,7 +33,7 @@ Interests:
 # Education to show in About widget
 education:
   courses: 
-    - course: MPhil. In Machinery 
+    - course: MPhil. In Mechanical Engineering 
       institution: Ocean College, Zhejiang University
       year: Sep. 2021 - Mar. 2024 (Expected) 
     - course: B.Eng. in Engineering 
