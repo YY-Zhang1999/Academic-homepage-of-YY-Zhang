@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang Yiyuan 
+title: Yiyuan Zhang  
 
 # Full name (for SEO)
 first_name: Yiyuan
@@ -22,11 +22,11 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interest in obtaining a Ph.D. in ME or ECE, with the aim of advancing my knowledge and skills in the field of system optimization and artificial intelligence, contributing to scientific research, and pursuing a career as a researcher in academia or industry.
+bio: I'm a graduate student at Zhejiang University. I'm very interested in utilizing intelligent algorithms to solve widespread optimization problems in the real world. My current goal is to obtain a Ph.D. in ME or ECE, with the aim of advancing my knowledge and skills in the field of system optimization and artificial intelligence, contributing to scientific research, and pursuing a career as a researcher in academia or industry.
 
 # Interests to show in About widget
 Interests:
-  - Applied ocean technologies
+  - System optimization
   - Artificial Intelligence
   
 
@@ -63,6 +63,8 @@ email: 'zjuzyy777@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 # 张翼远是一名机械工程研究生，目前就读于浙江大学，正在寻求工程中优化与AI相结合相关的博士学位。他在中国国家自然科学基金和中科院先导项目的支持下开展将深度强化学习等智能算法应用于海洋人工上升流系统的优化的研究，正在向‘Applied Ocean Research’等期刊投稿相关主题论文。
+# Zhang Yiyuan is a graduate student in Mechanical Engineering currently enrolled at Zhejiang University, with a keen interest in Intelligent System Optimization utilizing Artificial Intelligence. He is applying for a Ph.D. in this field and has participated in research projects awarded by National Natural Science Funds of China and the Strategic Priority Research Program of the Chinese Academy of Sciences. Zhang's **current research focuses on the application of intelligent algorithms**, such as _Deep Reinforcement Learning_, to optimize the efficiency of [ocean artificial upwelling systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101870). He is actively submitting papers related to this research topic to reputed journals, including "_Applied Ocean Research_."
+
 ---
-Zhang Yiyuan is a **graduate student in Mechanical Engineering** currently enrolled at **Zhejiang University**, with a keen interest in **Intelligent System Optimization** utilizing **Artificial Intelligence**. He is seeking a **Ph.D.** in this field and has participated in research projects awarded by National Natural Science Funds of China and the Strategic Priority Research Program of the Chinese Academy of Sciences. Zhang's **past research focuses on the application of intelligent algorithms**, such as _Deep Reinforcement Learning_, to optimize the efficiency of [ocean artificial upwelling systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101870). He is actively submitting papers related to this research topic to reputed journals, including "_Applied Ocean Research_."
+Yiyuan Zhang is a graduate student in Mechanical Engineering currently enrolled at Zhejiang University, with a keen interest in solving widespread optimization problems in the real world. Zhang's current research focuses on the application of intelligent algorithms, such as _Deep Reinforcement Learning_, to address layout optimization and energy management challenges in [ocean artificial upwelling systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101870). 
 {style="text-align: justify;"}
