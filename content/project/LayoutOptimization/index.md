@@ -20,10 +20,9 @@ image:
   focal_point: Smart
 ---
 
-- In this work, we have presented a novel approach using the **_DPSO algorithm to optimize the layout_** of artificial upwelling in aquaculture farms, aiming to improve the efficiency of the air-lifted AU system. 
+- In this work, we have presented a novel approach using the (Discrete Particle Swarm Algorithm) DPSO algorithm to optimize the layout of artificial upwelling in aquaculture farms, aiming to improve the efficiency of the air-lifted AU system. 
 - Highlights:
   - Modeling artificial upwelling efficiency under crossflow.
   - Optimized nozzle layout using DPSO algorithm.
   - Providing practical insights for AU system optimization design.
-  - Co-authored peer-reviewed papers on this topic.
-  - Submitted manuscripts to the reputable ocean journal "Applied Ocean Research."
+  
