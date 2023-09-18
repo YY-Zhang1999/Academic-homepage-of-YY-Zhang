@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 ---
 
-- Efficient scheduling of the air injection system and energy storage system of artificial upwelling system (AUS) in complex marine environments remains a crucial challenge in operating AUS, as it holds the potential to significantly improve system performance. To tackle this challenge, we propose a novel energy management approach that utilizes deep reinforcement learning (DRL) algorithm to develop efficient strategies for operating AUS. Specifically, we formulate the problem of maximizing energy efficiency of AUS as a Markov decision process and integrate the quantile network in distributional reinforcement learning (QR-DQN) with the deep dueling network to solve it.
+- In this study, we propose a novel energy management approach that utilizes deep reinforcement learning (DRL) algorithm to develop efficient strategies for operating AUS. Specifically, we formulate the problem of maximizing energy efficiency of AUS as a Markov decision process and integrate the quantile network in distributional reinforcement learning (QR-DQN) with the deep dueling network to solve it.
 - Highlights:
   -  Developed a _DRL-based algorithm_ to optimize energy management strategy under uncertain environmental conditions while ensuring system safety and maximizing efficiency.
   -  Combined **_deep quantile networks_** with **_deep dueling network architectures_** to improve convergence speed and robustness of the DRL method.
