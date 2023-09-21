@@ -3,7 +3,7 @@ title: "Layout Optimization of Air-lifted Artificial Upwelling System Based on D
 authors:
 - admin
 date: "2023-08-30T00:00:00Z"
-#doi: https://doi.org/10.1016/j.apor.2023.103724
+doi: https://doi.org/10.1016/j.apor.2023.103724
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: Custom Link
   #url: http://example.org
-url_pdf: https://doi.org/10.1016/j.apor.2023.103724
+#url_pdf: https://doi.org/10.1016/j.apor.2023.103724
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'

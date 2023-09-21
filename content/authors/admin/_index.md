@@ -27,7 +27,7 @@ bio: I'm a graduate student at Zhejiang University. I'm very interested in utili
 # Interests to show in About widget
 Interests:
   - System optimization
-  - Artificial Intelligence
+  - Intelligent algorithm
   
 
 # Education to show in About widget
