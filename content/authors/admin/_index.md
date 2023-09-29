@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiyuan Zhang  
+title: Yiyuan Zhang (张翼远) 
 
 # Full name (for SEO)
 first_name: Yiyuan
